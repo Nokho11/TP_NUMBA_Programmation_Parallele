@@ -1,7 +1,7 @@
 # TP Paralléliser un calcul de moyenne avec Numba
 
 **Cours** : Programmation Parallèle  
-**Enseignant** : Prof. Osias Noël TOSSOU (AIMS Sénégal / UVS)  
+**Enseignant** : Prof. Osias Noël TOSSOU 
 **Étudiante** : Ndeye Sokhna Nokho  
 **Formation** : Master 1 Big Data Analytics, UNCHK 2024/2025  
 
